@@ -6,3 +6,6 @@ tecnologias:
 - Jupyter Notebook
 - Python
 - Bibliotecas: Pandas, Numpy, Matplotlib.
+
+link tutorial: https://www.youtube.com/watch?v=Lv-Z2TE-usI&ab_channel=DataMarketing <br>
+Fonte Dados: https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-19902020
